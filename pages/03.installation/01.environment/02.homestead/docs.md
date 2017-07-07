@@ -55,7 +55,7 @@ However, **if you are a Windows user**, you'll need to install `git` and get set
 
 #### Set up the virtual machine
 
-The first thing we need to do is **create a virtual machine**.  To do this, open up your command line program (Terminal, Git Bash, whatever).  In Windows, you may need use choose "Run as administrator".  At the command line, run:
+The first thing we need to do is **create a virtual machine**.  To do this, open up your command line program (Terminal, Git Bash, whatever).  In Windows, you may need to choose "Run as administrator".  At the command line, run:
 
 ```bash
 vagrant box add laravel/homestead
@@ -73,7 +73,7 @@ Homestead will automatically give us the following components that we need to ru
 - Composer
 - Node and npm
 
-Nice!  This means that we are saved the hassle of [setting these up natively in our operating system](/installation/requirements/essential-tools-for-php).
+Nice!  This means that we are saved the hassle of [setting these up natively on our operating system](/installation/requirements/essential-tools-for-php).
 
 #### Download and initialize Homestead
 
